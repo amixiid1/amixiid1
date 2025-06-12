@@ -6,6 +6,7 @@
 \____|__  /__|_|  /__/__/\_ \__|__\____ | 
         \/      \/         \/          \/ 
 </pre>
+<pre align="center">
 <h3 align="center">A passionate full stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amixiid&label=Profile%20views&color=0e75b6&style=flat" alt="amixiid" /> </p>
