@@ -1,4 +1,11 @@
-<h1 align="center">Hi 👋, I'm Amixiid</h1>
+<h1 align="center">
+   _____          .__       .__.__    .___
+  /  _  \   _____ |__|__  __|__|__| __| _/
+ /  /_\  \ /     \|  \  \/  /  |  |/ __ | 
+/    |    \  Y Y  \  |>    <|  |  / /_/ | 
+\____|__  /__|_|  /__/__/\_ \__|__\____ | 
+        \/      \/         \/          \/ 
+</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amixiid&label=Profile%20views&color=0e75b6&style=flat" alt="amixiid" /> </p>
